@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfOrange.png">
+<SubTexture name="bfOrange idle0000" x="352" y="631" width="353" height="598" frameX="-99" frameY="-38" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange idle0001" x="705" y="631" width="354" height="598" frameX="-98" frameY="-38" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange right0000" x="1059" y="631" width="362" height="592" frameX="-170" frameY="-42" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange right0001" x="1788" y="0" width="366" height="590" frameX="-164" frameY="-44" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange left0000" x="704" y="0" width="405" height="611" frameX="-12" frameY="-22" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange left0001" x="1109" y="0" width="398" height="607" frameX="-20" frameY="-26" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange up0000" x="0" y="0" width="346" height="631" frameX="-155" frameY="-8" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange up0001" x="346" y="0" width="358" height="627" frameX="-149" frameY="-11" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange down0000" x="721" y="1233" width="433" height="475" frameX="-95" frameY="-153" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange down0001" x="295" y="1233" width="426" height="480" frameX="-101" frameY="-147" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange hey0000" x="0" y="1233" width="295" height="575" frameX="-178" frameY="-46" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange hey0001" x="1507" y="0" width="281" height="591" frameX="-185" frameY="-38" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange hey0002" x="1507" y="591" width="267" height="591" frameX="-192" frameY="0" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange hey0003" x="1788" y="590" width="289" height="577" frameX="-182" frameY="0" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange hey0004" x="0" y="1233" width="295" height="575" frameX="-178" frameY="-46" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange hey0005" x="1507" y="0" width="281" height="591" frameX="-185" frameY="-38" frameWidth="550" frameHeight="650" />
+<SubTexture name="bfOrange miss0000" x="0" y="631" width="352" height="602" frameX="-99" frameY="-35" frameWidth="550" frameHeight="650" />
+</TextureAtlas>

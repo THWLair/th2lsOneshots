@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gael.png">
+<SubTexture name="gael idle0000" x="0" y="0" width="132" height="199" frameX="-57" frameY="-25" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael idle0001" x="132" y="0" width="131" height="199" frameX="-58" frameY="-25" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael left0000" x="482" y="0" width="122" height="156" frameX="-49" frameY="-57" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael left0001" x="292" y="199" width="125" height="166" frameX="-50" frameY="-50" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael right0000" x="371" y="0" width="111" height="183" frameX="-86" frameY="-32" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael right0001" x="263" y="0" width="108" height="188" frameX="-87" frameY="-32" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael down0000" x="128" y="382" width="135" height="140" frameX="-57" frameY="-81" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael down0001" x="0" y="382" width="128" height="153" frameX="-60" frameY="-68" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael up0000" x="151" y="199" width="141" height="181" frameX="-48" frameY="-24" frameWidth="230" frameHeight="230" />
+<SubTexture name="gael up0001" x="0" y="199" width="151" height="183" frameX="-43" frameY="-28" frameWidth="230" frameHeight="230" />
+</TextureAtlas>

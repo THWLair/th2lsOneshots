@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boyfriend.png">
+<SubTexture name="boyfriend idle0000" x="1434" y="409" width="362" height="400" frameX="-59" frameY="-89" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend idle0001" x="1434" y="0" width="365" height="409" frameX="-59" frameY="-80" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend idle0002" x="733" y="871" width="370" height="413" frameX="-57" frameY="-76" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend idle0003" x="372" y="450" width="372" height="420" frameX="-56" frameY="-69" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend idle0004" x="0" y="450" width="372" height="421" frameX="-56" frameY="-68" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend left0000" x="1048" y="419" width="332" height="418" frameX="-60" frameY="-69" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend left0001" x="0" y="871" width="344" height="417" frameX="-55" frameY="-70" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend right0000" x="344" y="871" width="389" height="416" frameX="-75" frameY="-74" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend right0001" x="1048" y="0" width="386" height="419" frameX="-72" frameY="-71" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend down0000" x="0" y="1288" width="352" height="391" frameX="-28" frameY="-109" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend down0001" x="1434" y="809" width="343" height="397" frameX="-34" frameY="-103" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend up0000" x="349" y="0" width="350" height="448" frameX="-77" frameY="-46" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend up0001" x="699" y="0" width="349" height="442" frameX="-72" frameY="-52" frameWidth="500" frameHeight="500" />
+<SubTexture name="boyfriend hey0000" x="0" y="0" width="349" height="450" frameX="-64" frameY="-39" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

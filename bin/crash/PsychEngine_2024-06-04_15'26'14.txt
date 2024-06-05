@@ -1,0 +1,13 @@
+flixel/tweens/misc/VarTween.hx (line 99)
+flixel/tweens/misc/VarTween.hx (line 55)
+flixel/tweens/FlxTween.hx (line 1341)
+flixel/FlxGame.hx (line 748)
+flixel/FlxGame.hx (line 680)
+flixel/FlxGame.hx (line 559)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: The object does not have the property "alpha"
+Please report this error to the GitHub page: https://github.com/harolkd/th2l-engine
+
+> Crash Handler written by: sqirra-rng

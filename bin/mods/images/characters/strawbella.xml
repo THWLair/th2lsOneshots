@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="strawbella.png">
+<SubTexture name="strawbella idle0000" x="847" y="0" width="339" height="825" frameX="-73" frameY="-29" frameWidth="525" frameHeight="875" />
+<SubTexture name="strawbella right0000" x="1186" y="0" width="384" height="812" frameX="-71" frameY="-43" frameWidth="525" frameHeight="875" />
+<SubTexture name="strawbella left0000" x="359" y="0" width="488" height="830" frameX="-32" frameY="-40" frameWidth="525" frameHeight="875" />
+<SubTexture name="strawbella down0000" x="1570" y="0" width="327" height="734" frameX="-92" frameY="-121" frameWidth="525" frameHeight="875" />
+<SubTexture name="strawbella up0000" x="0" y="0" width="359" height="861" frameX="-64" frameY="-2" frameWidth="525" frameHeight="875" />
+</TextureAtlas>

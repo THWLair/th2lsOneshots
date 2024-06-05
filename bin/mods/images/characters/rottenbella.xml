@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rottenbella.png">
+<SubTexture name="rottenbella idle0000" x="487" y="639" width="507" height="553" frameX="-90" frameY="-81" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella idle0001" x="1492" y="0" width="506" height="552" frameX="-91" frameY="-81" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella left0000" x="0" y="1226" width="549" height="548" frameX="-57" frameY="-83" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella left0001" x="549" y="1226" width="552" height="548" frameX="-64" frameY="-83" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella down0000" x="1101" y="1226" width="513" height="524" frameX="-88" frameY="-140" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella down0001" x="1492" y="552" width="503" height="548" frameX="-95" frameY="-116" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella up0000" x="0" y="0" width="494" height="639" frameX="-128" frameY="-3" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella up0001" x="494" y="0" width="515" height="620" frameX="-117" frameY="-22" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella right0000" x="0" y="639" width="487" height="587" frameX="-191" frameY="-89" frameWidth="700" frameHeight="700" />
+<SubTexture name="rottenbella right0001" x="1009" y="0" width="483" height="594" frameX="-180" frameY="-82" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

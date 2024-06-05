@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cris.png">
+<SubTexture name="cris idle0000" x="296" y="0" width="240" height="492" frameX="-52" frameY="-34" frameWidth="440" frameHeight="540" />
+<SubTexture name="cris left0000" x="536" y="0" width="322" height="475" frameX="-2" frameY="-49" frameWidth="440" frameHeight="540" />
+<SubTexture name="cris right0000" x="858" y="0" width="303" height="472" frameX="-134" frameY="-53" frameWidth="440" frameHeight="540" />
+<SubTexture name="cris down0000" x="0" y="525" width="296" height="442" frameX="-54" frameY="-84" frameWidth="440" frameHeight="540" />
+<SubTexture name="cris up0000" x="0" y="0" width="296" height="525" frameX="-47" frameY="-10" frameWidth="440" frameHeight="540" />
+</TextureAtlas>

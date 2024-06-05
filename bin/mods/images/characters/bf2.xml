@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boyfriend2.png">
+<SubTexture name="boyfriend down0000" x="418" y="513" width="351" height="406" frameX="-80" frameY="-185" frameWidth="600" frameHeight="600" />
+<SubTexture name="boyfriend idle0000" x="356" y="0" width="379" height="485" frameX="-117" frameY="-108" frameWidth="600" frameHeight="600" />
+<SubTexture name="boyfriend left0000" x="735" y="0" width="356" height="476" frameX="-71" frameY="-116" frameWidth="600" frameHeight="600" />
+<SubTexture name="boyfriend right0000" x="0" y="513" width="418" height="464" frameX="-134" frameY="-130" frameWidth="600" frameHeight="600" />
+<SubTexture name="boyfriend up0000" x="0" y="0" width="356" height="513" frameX="-135" frameY="-73" frameWidth="600" frameHeight="600" />
+</TextureAtlas>
