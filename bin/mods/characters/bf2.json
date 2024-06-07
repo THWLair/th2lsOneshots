@@ -56,12 +56,12 @@
 			"indices": []
 		}
 	],
-	"vocals_file": "Boyfriend",
+	"vocals_file": "bf",
 	"no_antialiasing": true,
 	"image": "characters/boyfriend",
 	"position": [
-		-70,
-		170
+		30,
+		300
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -74,7 +74,7 @@
 		80,
 		0
 	],
-	"sing_duration": 2.5,
+	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": true
 }

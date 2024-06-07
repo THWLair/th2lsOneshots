@@ -125,12 +125,10 @@ function goodNoteHit(id, direction, noteType, isSustainNote)
             makeRatingTexture(ball_3);
             onUpdateComboText(1);
 		thwlScores = thwlScores - 5
-		setProperty('fc.alpha', 0)
         elseif shit then
             makeRatingTexture(ball_4);
             onUpdateComboText(1);
 		thwlScores = thwlScores + 10
-		setProperty('fc.alpha', 0)
         end
     end
 end

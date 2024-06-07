@@ -19,6 +19,6 @@ gety = getMidpointY('boyfriend')-100+getProperty('boyfriend.cameraPosition[1]')+
 gety2 = getMidpointY('dad')-100+getProperty('dad.cameraPosition[1]')+getProperty('opponentCameraOffset[1]') --+ getProperty("dad.positionArray[1]")
     cancelTween('bleh')
     cancelTween('bleh2')
-    doTweenX('bleh', 'camFollow', (mustHitSection and getx or getx2), camCustomSpeed, 'circInOut' )
-    doTweenY('bleh2', 'camFollow', (mustHitSection and gety or gety2), camCustomSpeed, 'circInOut' )
+    doTweenX('bleh', 'camFollow', (mustHitSection and getx or getx2), camCustomSpeed)
+    doTweenY('bleh2', 'camFollow', (mustHitSection and gety or gety2), camCustomSpeed)
 end
