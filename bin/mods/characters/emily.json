@@ -1,67 +1,67 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 18,
 			"anim": "idle",
-			"indices": [],
-			"name": "emily idle"
+			"fps": 18,
+			"name": "emily idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "emily left"
+			"fps": 12,
+			"name": "emily left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "emily down"
+			"fps": 12,
+			"name": "emily down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singUP",
-			"indices": [],
-			"name": "emily up"
+			"fps": 12,
+			"name": "emily up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				0,
+				90,
 				0
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "emily right"
+			"fps": 12,
+			"name": "emily right",
+			"indices": []
 		}
 	],
 	"vocals_file": "Emily",
 	"no_antialiasing": true,
 	"image": "characters/emily",
 	"position": [
-		0,
-		-100
+		-90,
+		-170
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -71,10 +71,10 @@
 		209
 	],
 	"camera_position": [
-		70,
-		-30
+		120,
+		-20
 	],
-	"sing_duration": 2.5,
+	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": true
 }

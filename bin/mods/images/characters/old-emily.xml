@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="emily.png">
+<SubTexture name="emily idle0000" x="358" y="0" width="398" height="833" frameX="-48" frameY="-18" frameWidth="540" frameHeight="870" />
+<SubTexture name="emily left0000" x="1158" y="0" width="358" height="798" frameX="-19" frameY="-50" frameWidth="540" frameHeight="870" />
+<SubTexture name="emily down0000" x="1516" y="0" width="354" height="713" frameX="-65" frameY="-141" frameWidth="540" frameHeight="870" />
+<SubTexture name="emily right0000" x="756" y="0" width="402" height="825" frameX="-118" frameY="-40" frameWidth="540" frameHeight="870" />
+<SubTexture name="emily up0000" x="0" y="0" width="358" height="852" frameX="-97" frameY="-3" frameWidth="540" frameHeight="870" />
+</TextureAtlas>

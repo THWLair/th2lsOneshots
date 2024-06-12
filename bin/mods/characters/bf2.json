@@ -60,8 +60,8 @@
 	"no_antialiasing": true,
 	"image": "characters/boyfriend",
 	"position": [
-		30,
-		300
+		-10,
+		280
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -71,8 +71,8 @@
 		209
 	],
 	"camera_position": [
-		80,
-		0
+		120,
+		-210
 	],
 	"sing_duration": 4,
 	"scale": 1,

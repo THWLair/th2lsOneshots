@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rank.png">
+<SubTexture name="rank admirable0000" x="115" y="0" width="122" height="175" frameX="-33" frameY="-10" frameWidth="200" frameHeight="200" />
+<SubTexture name="rank brilliant0000" x="237" y="0" width="120" height="162" frameX="-44" frameY="-20" frameWidth="200" frameHeight="200" />
+<SubTexture name="rank clueless0000" x="114" y="177" width="116" height="158" frameX="-37" frameY="-18" frameWidth="200" frameHeight="200" />
+<SubTexture name="rank disastrous0000" x="0" y="177" width="114" height="160" frameX="-41" frameY="-21" frameWidth="200" frameHeight="200" />
+<SubTexture name="rank perfect0000" x="0" y="0" width="115" height="177" frameX="-38" frameY="-14" frameWidth="200" frameHeight="200" />
+</TextureAtlas>
