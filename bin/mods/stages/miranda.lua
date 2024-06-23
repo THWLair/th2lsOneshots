@@ -13,7 +13,7 @@ setProperty('2.antialiasing')
 addLuaSprite('2', false)
 
 makeLuaSprite('3', 'stages/miranda/3', initialPosX, initialPosY)
-setScrollFactor('2', 0.8, 1)
+setScrollFactor('3', 0.8, 1)
 setProperty('3.antialiasing')
 addLuaSprite('3', false)
 

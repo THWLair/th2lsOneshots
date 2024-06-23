@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="vice.png">
+<SubTexture name="vice idle0000" x="1791" y="0" width="346" height="809" frameX="-134" frameY="-81" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice idle0001" x="394" y="848" width="351" height="822" frameX="-126" frameY="-68" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice idle0002" x="1439" y="0" width="352" height="828" frameX="-126" frameY="-62" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice idle0003" x="1090" y="0" width="349" height="831" frameX="-128" frameY="-59" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice idle0004" x="740" y="0" width="350" height="832" frameX="-128" frameY="-58" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice left0000" x="2137" y="776" width="346" height="770" frameX="-26" frameY="-114" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice left0001" x="2137" y="0" width="348" height="776" frameX="-30" frameY="-108" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice right0000" x="1149" y="848" width="410" height="810" frameX="-153" frameY="-85" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice right0001" x="745" y="848" width="404" height="819" frameX="-152" frameY="-76" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice down0000" x="1122" y="1675" width="431" height="659" frameX="-134" frameY="-234" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice down0001" x="700" y="1675" width="422" height="671" frameX="-142" frameY="-222" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice up0000" x="0" y="0" width="369" height="848" frameX="-96" frameY="-31" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice up0001" x="369" y="0" width="371" height="841" frameX="-91" frameY="-38" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice hurt0000" x="347" y="1675" width="353" height="740" frameX="-28" frameY="-144" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice hurt0001" x="0" y="1675" width="347" height="762" frameX="-37" frameY="-122" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice hurt0002" x="1791" y="809" width="344" height="763" frameX="-41" frameY="-121" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice hurt0003" x="1791" y="809" width="344" height="763" frameX="-41" frameY="-121" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice hurt0004" x="1791" y="809" width="344" height="763" frameX="-41" frameY="-121" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice atk0000" x="0" y="848" width="394" height="827" frameX="-123" frameY="-63" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice atk0001" x="0" y="848" width="394" height="827" frameX="-123" frameY="-63" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice atk0002" x="0" y="848" width="394" height="827" frameX="-123" frameY="-63" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice atk0003" x="0" y="848" width="394" height="827" frameX="-123" frameY="-63" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice atk0004" x="0" y="848" width="394" height="827" frameX="-123" frameY="-63" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice atk0005" x="0" y="848" width="394" height="827" frameX="-123" frameY="-63" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice atk0006" x="0" y="848" width="394" height="827" frameX="-123" frameY="-63" frameWidth="600" frameHeight="900" />
+<SubTexture name="vice atk0007" x="0" y="848" width="394" height="827" frameX="-123" frameY="-63" frameWidth="600" frameHeight="900" />
+</TextureAtlas>

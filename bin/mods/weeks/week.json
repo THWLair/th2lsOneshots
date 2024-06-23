@@ -1,6 +1,6 @@
 {
 	"storyName": "Your New Week",
-	"difficulties": "OG, Normal",
+	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
@@ -13,7 +13,7 @@
 	"hideStoryMode": true,
 	"songs": [
 		[
-			"Rap Her Mind",
+			"Relevant",
 			"dad",
 			[
 				146,
@@ -22,7 +22,7 @@
 			]
 		],
 		[
-			"Frozen",
+			"Revamped",
 			"dad",
 			[
 				146,
@@ -31,16 +31,7 @@
 			]
 		],
 		[
-			"Crisis",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"Hailey",
+			"Re-Train",
 			"dad",
 			[
 				146,

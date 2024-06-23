@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neva.png">
+<SubTexture name="neva idle0000" x="1376" y="820" width="309" height="793" frameX="-102" frameY="-61" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva idle0001" x="0" y="820" width="307" height="798" frameX="-100" frameY="-56" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva idle0002" x="1240" y="0" width="303" height="801" frameX="-101" frameY="-53" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva idle0003" x="606" y="0" width="302" height="802" frameX="-101" frameY="-52" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva left0000" x="1543" y="0" width="346" height="801" frameX="-6" frameY="-53" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva left0001" x="908" y="0" width="332" height="802" frameX="-21" frameY="-52" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva right0000" x="1059" y="820" width="317" height="794" frameX="-196" frameY="-61" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva right0001" x="307" y="820" width="324" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva up0000" x="0" y="0" width="306" height="820" frameX="-96" frameY="-30" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva up0001" x="306" y="0" width="300" height="816" frameX="-101" frameY="-34" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva down0000" x="0" y="1618" width="319" height="624" frameX="-125" frameY="-227" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva down0001" x="1889" y="791" width="313" height="639" frameX="-132" frameY="-212" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva hurt0000" x="2208" y="791" width="311" height="776" frameX="-71" frameY="-78" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva hurt0001" x="1889" y="0" width="319" height="791" frameX="-80" frameY="-63" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva hurt0002" x="2208" y="0" width="321" height="791" frameX="-82" frameY="-63" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva hurt0003" x="2208" y="0" width="321" height="791" frameX="-82" frameY="-63" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva hurt0004" x="2208" y="0" width="321" height="791" frameX="-82" frameY="-63" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva hurt0005" x="2208" y="0" width="321" height="791" frameX="-82" frameY="-63" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva atk0000" x="631" y="820" width="428" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva atk0001" x="631" y="820" width="428" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva atk0002" x="631" y="820" width="428" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva atk0003" x="631" y="820" width="428" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva atk0004" x="631" y="820" width="428" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva atk0005" x="631" y="820" width="428" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva atk0006" x="631" y="820" width="428" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+<SubTexture name="neva atk0007" x="631" y="820" width="428" height="798" frameX="-178" frameY="-57" frameWidth="660" frameHeight="860" />
+</TextureAtlas>

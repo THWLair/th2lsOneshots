@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="screen.png">
+<SubTexture name="screen off0000" x="3156" y="800" width="1378" height="699" frameX="-761" frameY="-185" frameWidth="2900" frameHeight="1900" />
+<SubTexture name="screen go0000" x="0" y="0" width="1578" height="800" frameX="-661" frameY="-84" frameWidth="2900" frameHeight="1900" />
+<SubTexture name="screen press0000" x="1578" y="0" width="1578" height="800" frameX="-661" frameY="-84" frameWidth="2900" frameHeight="1900" />
+<SubTexture name="screen pressed0000" x="0" y="800" width="1578" height="800" frameX="-661" frameY="-84" frameWidth="2900" frameHeight="1900" />
+<SubTexture name="screen yellow0000" x="1578" y="800" width="1578" height="800" frameX="-661" frameY="-84" frameWidth="2900" frameHeight="1900" />
+<SubTexture name="screen bestgf0000" x="0" y="1600" width="1578" height="800" frameX="-661" frameY="-84" frameWidth="2900" frameHeight="1900" />
+<SubTexture name="screen uhyea0000" x="1578" y="1600" width="1578" height="800" frameX="-661" frameY="-84" frameWidth="2900" frameHeight="1900" />
+<SubTexture name="screen boring0000" x="3156" y="0" width="1578" height="800" frameX="-661" frameY="-84" frameWidth="2900" frameHeight="1900" />
+</TextureAtlas>

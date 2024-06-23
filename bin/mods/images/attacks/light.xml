@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="light.png">
+<SubTexture name="light idle0000" x="0" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="light idle0001" x="0" y="400" width="398" height="387" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="light idle0002" x="400" y="0" width="393" height="399" frameX="-7" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="light idle0003" x="793" y="0" width="397" height="395" frameX="-3" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="light idle0004" x="398" y="400" width="397" height="373" frameX="-3" frameY="0" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

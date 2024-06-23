@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="iceA.png">
+<SubTexture name="iceA idle0000" x="0" y="160" width="150" height="105" frameX="-4" frameY="-5" frameWidth="160" frameHeight="110" />
+<SubTexture name="iceA idle0001" x="150" y="160" width="140" height="104" frameX="-10" frameY="-6" frameWidth="160" frameHeight="110" />
+<SubTexture name="iceA idle0002" x="315" y="0" width="141" height="104" frameX="-11" frameY="-6" frameWidth="160" frameHeight="110" />
+<SubTexture name="iceA break0000" x="315" y="104" width="139" height="103" frameX="-12" frameY="-31" frameWidth="160" frameHeight="160" />
+<SubTexture name="iceA break0001" x="160" y="0" width="155" height="115" frameX="-4" frameY="-25" frameWidth="160" frameHeight="160" />
+<SubTexture name="iceA break0002" x="0" y="0" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+<SubTexture name="iceA break0003" x="160" y="0" width="155" height="115" frameX="-4" frameY="-25" frameWidth="160" frameHeight="160" />
+<SubTexture name="iceA break0004" x="0" y="0" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+<SubTexture name="iceA break0005" x="160" y="0" width="155" height="115" frameX="-4" frameY="-25" frameWidth="160" frameHeight="160" />
+<SubTexture name="iceA break0006" x="0" y="0" width="160" height="160" frameX="0" frameY="0" frameWidth="160" frameHeight="160" />
+</TextureAtlas>

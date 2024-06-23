@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
-			"fps": 18,
-			"name": "cris idle",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "cris left",
-			"indices": []
+			"indices": [],
+			"name": "cris left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "cris down",
-			"indices": []
+			"indices": [],
+			"name": "cris down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 12,
 			"anim": "singUP",
-			"fps": 12,
-			"name": "cris up",
-			"indices": []
+			"indices": [],
+			"name": "cris up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 12,
-			"name": "cris right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cris right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "cris idle"
 		}
 	],
 	"vocals_file": "Cris",

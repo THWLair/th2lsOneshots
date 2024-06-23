@@ -70,30 +70,6 @@ setTextSize('lives', 40)
 setTextBorder('lives', 5, '000000')
 setObjectCamera('lives', 'hud')
 addLuaText('lives')
------------------------------------------------------ Game Over
-makeLuaSprite('black', 'empty', -500, -500)
-makeGraphic('black', 5000, 5000, '000000')
-setObjectCamera('black', 'camGame')
-setProperty('black.alpha', 0)
-addLuaSprite('black', true)
-
-makeLuaSprite('bfgm0', 'gameOver/0', 750, 400)
-scaleObject('bfgm0', 1, 1)
-setObjectCamera('bfgm0', 'camGame')
-addLuaSprite('bfgm0', true)
-setProperty('bfgm0.alpha', 0)
-
-makeLuaSprite('bfgm1', 'gameOver/1', 750, 400)
-scaleObject('bfgm1', 1, 1)
-setObjectCamera('bfgm1', 'camGame')
-addLuaSprite('bfgm1', true)
-setProperty('bfgm1.alpha', 0)
-
-makeLuaSprite('bfgm2', 'gameOver/2', 750, 400)
-scaleObject('bfgm2', 1, 1)
-setObjectCamera('bfgm2', 'camGame')
-addLuaSprite('bfgm2', true)
-setProperty('bfgm2.alpha', 0)
 
 end
 
