@@ -1,0 +1,17 @@
+flixel/sound/FlxSound.hx (line 603)
+flixel/sound/FlxSound.hx (line 743)
+flixel/system/frontEnds/SoundFrontEnd.hx (line 189)
+flixel/system/frontEnds/SoundFrontEnd.hx (line 245)
+substates/GameOverSubstate.hx (line 57)
+flixel/FlxState.hx (line 163)
+flixel/FlxState.hx (line 244)
+flixel/FlxGame.hx (line 750)
+flixel/FlxGame.hx (line 680)
+flixel/FlxGame.hx (line 559)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Null Object Reference
+Please report this error to the GitHub page: https://github.com/harolkd/th2l-engine
+
+> Crash Handler written by: sqirra-rng

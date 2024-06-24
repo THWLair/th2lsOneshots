@@ -1,5 +1,6 @@
 local Changed = false
 local canChange = false
+local spaceY = 200
 
 local themPosX = 1100
 local playerPosX = 770
@@ -8,15 +9,18 @@ precacheImage('spacebar')
 precacheSound('press')
 precacheSound('pressed')
 
-function onCreate()	
-	makeLuaText('warn', 'PRESS SPACE!', 0, 840, 200)
+function onCreate()
+if downscroll == true then
+spaceY = 700
+end
+	makeLuaText('warn', 'PRESS SPACE!', 0, 840, spaceY)
 	setTextSize('warn', 50)
 	setTextBorder('warn', 5, 'FF0000')
 	setObjectCamera('warn', 'hud')
 	addLuaText('warn')
 	setProperty('warn.alpha', 0)
 	
-	makeAnimatedLuaSprite('splash', 'splash', 880, 130)
+	makeAnimatedLuaSprite('splash', 'splash', 880, spaceY - 70)
 	addAnimationByPrefix('splash', 'splash', 'splash', 10, false)
 	setObjectCamera('splash', 'hud')
 	scaleObject('splash', 0.7, 0.7)

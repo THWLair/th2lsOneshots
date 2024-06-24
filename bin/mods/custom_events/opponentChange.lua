@@ -19,7 +19,7 @@ end
 
 function onEvent(n, v1, v2)
 	if n == "opponentChange" then
-   if dadName == 'bella' then
+   if dadName == 'strawbella' then
    triggerEvent("Change Character", "dad", "cris")
    playSound('pressed', 1)
    setProperty('dad.x', oppPosX - 115)
@@ -31,7 +31,7 @@ function onEvent(n, v1, v2)
 	setProperty('themAgain.y', 100 - 60)
    
    elseif dadName == 'cris' then
-   triggerEvent("Change Character", "dad", "bella")
+   triggerEvent("Change Character", "dad", "strawbella")
    playSound('pressed', 1)
    setProperty('dad.x', oppPosX - 115)
    setProperty('themAgain.x', theirPosX + 115)

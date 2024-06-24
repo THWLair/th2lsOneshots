@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aura.png">
+<SubTexture name="aura idle0000" x="540" y="0" width="530" height="989" frameX="-33" frameY="-11" frameWidth="630" frameHeight="1000" />
+<SubTexture name="aura idle0001" x="0" y="0" width="540" height="998" frameX="-43" frameY="-2" frameWidth="630" frameHeight="1000" />
+<SubTexture name="aura idle0002" x="0" y="998" width="559" height="909" frameX="-29" frameY="-48" frameWidth="630" frameHeight="1000" />
+<SubTexture name="aura idle0003" x="1610" y="0" width="530" height="980" frameX="-33" frameY="-3" frameWidth="630" frameHeight="1000" />
+<SubTexture name="aura idle0004" x="1070" y="0" width="540" height="986" frameX="-17" frameY="0" frameWidth="630" frameHeight="1000" />
+<SubTexture name="aura idle0005" x="559" y="998" width="559" height="909" frameX="-29" frameY="-48" frameWidth="630" frameHeight="1000" />
+</TextureAtlas>

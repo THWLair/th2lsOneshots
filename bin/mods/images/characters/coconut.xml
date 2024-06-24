@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="coconut.png">
+<SubTexture name="coconut idle0000" x="0" y="950" width="344" height="909" frameX="-114" frameY="-84" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut idle0001" x="1620" y="0" width="344" height="922" frameX="-119" frameY="-68" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut idle0002" x="1279" y="0" width="341" height="929" frameX="-120" frameY="-61" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut idle0003" x="937" y="0" width="342" height="932" frameX="-119" frameY="-58" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut idle0004" x="595" y="0" width="342" height="935" frameX="-119" frameY="-55" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut left0000" x="721" y="950" width="378" height="898" frameX="-25" frameY="-92" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut left0001" x="344" y="950" width="377" height="907" frameX="-32" frameY="-83" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut right0000" x="2435" y="0" width="478" height="874" frameX="-128" frameY="-113" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut right0001" x="1964" y="0" width="471" height="882" frameX="-125" frameY="-105" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut down0000" x="0" y="1859" width="344" height="752" frameX="-103" frameY="-240" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut down0001" x="1964" y="882" width="331" height="767" frameX="-110" frameY="-225" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut up0000" x="0" y="0" width="298" height="950" frameX="-119" frameY="-24" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut up0001" x="298" y="0" width="297" height="941" frameX="-121" frameY="-33" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut hurt0000" x="2435" y="874" width="448" height="860" frameX="-10" frameY="-127" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut hurt0001" x="1099" y="950" width="421" height="889" frameX="-42" frameY="-98" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut hurt0002" x="1520" y="950" width="420" height="888" frameX="-44" frameY="-99" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut hurt0003" x="1520" y="950" width="420" height="888" frameX="-44" frameY="-99" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut hurt0004" x="1520" y="950" width="420" height="888" frameX="-44" frameY="-99" frameWidth="630" frameHeight="1000" />
+<SubTexture name="coconut hurt0005" x="1520" y="950" width="420" height="888" frameX="-44" frameY="-99" frameWidth="630" frameHeight="1000" />
+</TextureAtlas>

@@ -57,6 +57,7 @@ Dodged = true
 canDodge = false
 triggerEvent("Play Animation", "freeze", "bf")
 triggerEvent("Play Animation", "hurt", "dad")
+triggerEvent("Screen Shake", "0.2, 0.01", "0.2, 0.01")
 playSound('explosion', 1)
 playSound('ice_attack', 1)
 triggerEvent("Camera Follow Pos", " ", " ")

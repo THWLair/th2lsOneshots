@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crist.png">
+<SubTexture name="crist idle0000" x="836" y="0" width="272" height="648" frameX="-93" frameY="-50" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist idle0001" x="560" y="0" width="276" height="649" frameX="-93" frameY="-49" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist left0000" x="378" y="655" width="377" height="619" frameX="-40" frameY="-78" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist left0001" x="0" y="655" width="378" height="620" frameX="-55" frameY="-77" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist right0000" x="755" y="655" width="348" height="617" frameX="-140" frameY="-78" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist right0001" x="1108" y="0" width="335" height="626" frameX="-139" frameY="-69" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist down0000" x="1443" y="0" width="274" height="532" frameX="-81" frameY="-167" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist down0001" x="1103" y="655" width="274" height="539" frameX="-82" frameY="-160" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist up0000" x="0" y="0" width="280" height="655" frameX="-92" frameY="-43" frameWidth="500" frameHeight="700" />
+<SubTexture name="crist up0001" x="280" y="0" width="280" height="650" frameX="-88" frameY="-48" frameWidth="500" frameHeight="700" />
+</TextureAtlas>

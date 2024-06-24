@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="light.png">
+<SubTexture name="light idle0000" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0001" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0002" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0003" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0004" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0005" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0006" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0007" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0008" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0009" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0010" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0011" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0012" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0013" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0014" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0015" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0016" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0017" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0018" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0019" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0020" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0021" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0022" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0023" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0024" x="0" y="0" width="460" height="871" frameX="-88" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0025" x="460" y="0" width="450" height="870" frameX="-103" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0026" x="910" y="0" width="470" height="869" frameX="-84" frameY="-29" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0027" x="1380" y="0" width="498" height="855" frameX="-70" frameY="-43" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0028" x="0" y="871" width="265" height="567" frameX="-191" frameY="-315" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0029" x="562" y="871" width="325" height="467" frameX="-161" frameY="-415" frameWidth="650" frameHeight="900" />
+<SubTexture name="light idle0030" x="265" y="871" width="297" height="479" frameX="-175" frameY="-403" frameWidth="650" frameHeight="900" />
+<SubTexture name="light loop0000" x="265" y="871" width="297" height="479" frameX="-175" frameY="-403" frameWidth="650" frameHeight="900" />
+</TextureAtlas>

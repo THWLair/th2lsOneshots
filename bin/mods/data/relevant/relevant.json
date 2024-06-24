@@ -3797,9 +3797,11 @@
 			}
 		],
 		"gfVersion": "gf",
+		"gameOverSound": "deathIce",
+		"gameOverChar": "meiDeathIce",
 		"song": "Relevant",
-		"needsVoices": true,
 		"stage": "center",
+		"needsVoices": true,
 		"bpm": 130,
 		"speed": 2.7
 	}

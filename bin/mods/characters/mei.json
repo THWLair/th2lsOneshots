@@ -56,20 +56,9 @@
 			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				0
-			],
-			"indices": [],
-			"fps": 16,
-			"anim": "attack",
-			"loop": false,
-			"name": "mei atk"
-		},
-		{
 			"loop": false,
 			"offsets": [
-				0,
+				40,
 				0
 			],
 			"anim": "freeze",
@@ -80,13 +69,57 @@
 		{
 			"offsets": [
 				0,
-				0
+				-10
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 12,
 			"anim": "dodge",
-			"loop": false,
+			"indices": [],
 			"name": "mei dodge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-10
+			],
+			"anim": "attack",
+			"fps": 16,
+			"name": "mei atk",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "look",
+			"fps": 10,
+			"name": "mei look",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "anim1",
+			"fps": 10,
+			"name": "mei anim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "anim2",
+			"fps": 10,
+			"name": "mei other",
+			"indices": []
 		}
 	],
 	"vocals_file": "bf",

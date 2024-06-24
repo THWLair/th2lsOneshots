@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bella.png">
+<SubTexture name="bella idle0000" x="1444" y="927" width="392" height="888" frameX="-131" frameY="-61" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella idle0001" x="342" y="927" width="374" height="894" frameX="-140" frameY="-55" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella idle0002" x="1411" y="0" width="366" height="902" frameX="-144" frameY="-47" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella idle0003" x="1051" y="0" width="360" height="905" frameX="-147" frameY="-44" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella idle0004" x="697" y="0" width="354" height="906" frameX="-150" frameY="-43" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella left0000" x="716" y="927" width="363" height="894" frameX="-62" frameY="-55" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella left0001" x="1777" y="0" width="349" height="900" frameX="-91" frameY="-49" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella right0000" x="1079" y="927" width="365" height="893" frameX="-209" frameY="-56" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella right0001" x="0" y="927" width="342" height="895" frameX="-208" frameY="-54" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella down0000" x="2480" y="0" width="367" height="765" frameX="-184" frameY="-182" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella down0001" x="2126" y="0" width="354" height="774" frameX="-191" frameY="-173" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella up0000" x="0" y="0" width="355" height="927" frameX="-149" frameY="-22" frameWidth="710" frameHeight="950" />
+<SubTexture name="bella up0001" x="355" y="0" width="342" height="918" frameX="-160" frameY="-31" frameWidth="710" frameHeight="950" />
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gojo.png">
+<SubTexture name="gojo idle0000" x="1566" y="0" width="428" height="923" frameX="-86" frameY="-77" frameWidth="600" frameHeight="1000" />
+<SubTexture name="gojo left0000" x="350" y="991" width="357" height="915" frameX="0" frameY="-85" frameWidth="600" frameHeight="1000" />
+<SubTexture name="gojo left0001" x="0" y="991" width="350" height="923" frameX="0" frameY="-77" frameWidth="600" frameHeight="1000" />
+<SubTexture name="gojo right0000" x="707" y="991" width="366" height="906" frameX="-234" frameY="-94" frameWidth="600" frameHeight="1000" />
+<SubTexture name="gojo right0001" x="965" y="0" width="298" height="924" frameX="-253" frameY="-76" frameWidth="600" frameHeight="1000" />
+<SubTexture name="gojo down0000" x="1263" y="0" width="303" height="924" frameX="-133" frameY="-76" frameWidth="600" frameHeight="1000" />
+<SubTexture name="gojo down0001" x="690" y="0" width="275" height="948" frameX="-146" frameY="-52" frameWidth="600" frameHeight="1000" />
+<SubTexture name="gojo up0000" x="0" y="0" width="328" height="991" frameX="-91" frameY="-9" frameWidth="600" frameHeight="1000" />
+<SubTexture name="gojo up0001" x="328" y="0" width="362" height="969" frameX="-74" frameY="-31" frameWidth="600" frameHeight="1000" />
+</TextureAtlas>

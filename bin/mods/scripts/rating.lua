@@ -3,7 +3,8 @@ local enableComboHit = true -- Do you want text to show when you hit/miss a note
 local enableSideCombo = false -- Do you want to show side text of you combo/combos broken?
 local thwlScores = 0
 local hit = 0
-
+local Ypos = 770
+local Ppos = 880
 local MaxCombo = 0
 idk1 = false
 idk2 = false
@@ -47,6 +48,11 @@ local combo = 0
 local combosBroken = 0
 
 function onCreatePost()
+if downscroll == true then
+Ypos = 70
+Ppos = 30
+end
+
 	makeLuaText('hits', '', 0, 20, 20)
 	setTextSize('hits', 40)
 	setTextBorder('hits', 5, '000000')
@@ -57,7 +63,7 @@ function onCreatePost()
 	setTextBorder('scores0', 5, '000000')
 	addLuaText('scores0')
 
-makeLuaText('fc', 'Perfect!', 0, 1060, 880)
+makeLuaText('fc', 'Perfect!', 0, 1060, Ppos)
 setTextSize('fc', 40)
 setTextBorder('fc', 5, '000000')
 setObjectCamera('fc', 'hud')
@@ -165,11 +171,11 @@ setProperty('fc.alpha', 0)
 end
 
 function makeRatingTexture(IMAGE)
-    makeLuaSprite('RATING', IMAGE, 1050, 770);
+    makeLuaSprite('RATING', IMAGE, 1050, Ypos);
     scaleObject('RATING', 1, 1);
     setProperty('RATING.alpha', 1);
     doTweenAlpha('RATING', 'RATING', 0, tweenTimer, 'circIn');
-    doTweenY('RATING_Y3', 'RATING', 800, 0.5, 'circIn');
+    doTweenY('RATING_Y3', 'RATING', Ypos + 30, 0.5, 'circIn');
     doTweenX('RATING_X', 'RATING.scale', 1.2, 0.3, 'circOut');
     doTweenY('RATING_Y', 'RATING.scale', 1.2, 0.3, 'circOut');
     

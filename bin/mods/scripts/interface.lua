@@ -71,33 +71,42 @@ setTextBorder('lives', 5, '000000')
 setObjectCamera('lives', 'hud')
 addLuaText('lives')
 
+makeLuaSprite('drain', 'ui/drain', 0, 0)
+scaleObject('drain', 1.35, 1.35)
+setObjectCamera('drain', 'hud')
+addLuaSprite('drain', true)
+setProperty('drain.alpha', 0)
 end
 
 function goodNoteHit(id, direction, noteType, isSustainNote)
 	heal = heal + 1
 	setProperty('health', 10)
 	
-		if heal > 8 and hp == 4 then
+	if heal > 8 and hp == 4 then
 	heal = 0
 	hp = hp + 1
+	setProperty('drain.alpha', 0)
 	playSound('heal', 4)
 	doTweenAlpha('base4_1', 'base4', 1, 0.5, 'bounceOut')
 	
 	elseif heal > 8 and hp == 3 then
 	heal = 0
 	hp = hp + 1
+	setProperty('drain.alpha', 0.2)
 	playSound('heal', 4)
 	doTweenAlpha('base3_1', 'base3', 1, 0.5, 'bounceOut')
 	
 	elseif heal > 8 and hp == 2 then
 	heal = 0
 	hp = hp + 1
+	setProperty('drain.alpha', 0.4)
 	playSound('heal', 4)
 	doTweenAlpha('base2_1', 'base2', 1, 0.5, 'bounceOut')
 	
 	elseif heal > 8 and hp == 1 then
 	heal = 0
 	hp = hp + 1
+	setProperty('drain.alpha', 0.8)
 	playSound('heal', 4)
 	doTweenAlpha('base1_1', 'base1', 1, 0.5, 'bounceOut')
 end
@@ -109,18 +118,22 @@ playSound('hurt', 4)
     if hp == 5 then
     doTweenAlpha('base4_0', 'base4', 0, 0.5, 'bounceOut')
 	hp = hp - 1
+	setProperty('drain.alpha', 0.2)
 	playSound('miss', 0.5)
     elseif hp == 4 then
     doTweenAlpha('base3_0', 'base3', 0, 0.5, 'bounceOut')
 	hp = hp - 1
+	setProperty('drain.alpha', 0.4)
 	playSound('miss', 0.5)
     elseif hp == 3 then
     doTweenAlpha('base2_0', 'base2', 0, 0.5, 'bounceOut')
 	hp = hp - 1
+	setProperty('drain.alpha', 0.8)
 	playSound('miss', 0.5)
     elseif hp == 2 then
     doTweenAlpha('base1_0', 'base1', 0, 0.5, 'bounceOut')
 	hp = hp - 1
+	setProperty('drain.alpha', 1)
 	playSound('miss', 0.5)
 	elseif hp == 1 then
 	hp = hp - 1

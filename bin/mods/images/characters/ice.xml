@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ice.png">
+<SubTexture name="ice idle0000" x="0" y="0" width="494" height="863" frameX="-85" frameY="-24" frameWidth="650" frameHeight="900" />
+<SubTexture name="ice idle0001" x="0" y="0" width="494" height="863" frameX="-85" frameY="-24" frameWidth="650" frameHeight="900" />
+<SubTexture name="ice idle0002" x="0" y="0" width="494" height="863" frameX="-85" frameY="-24" frameWidth="650" frameHeight="900" />
+<SubTexture name="ice idle0003" x="0" y="0" width="494" height="863" frameX="-85" frameY="-24" frameWidth="650" frameHeight="900" />
+<SubTexture name="ice idle0004" x="0" y="0" width="494" height="863" frameX="-85" frameY="-24" frameWidth="650" frameHeight="900" />
+<SubTexture name="ice idle0005" x="0" y="0" width="494" height="863" frameX="-85" frameY="-24" frameWidth="650" frameHeight="900" />
+</TextureAtlas>

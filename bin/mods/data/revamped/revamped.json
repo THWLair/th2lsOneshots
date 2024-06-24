@@ -4976,9 +4976,11 @@
 			}
 		],
 		"gfVersion": "gf",
+		"gameOverSound": "deathLight",
+		"gameOverChar": "meiDeathLight",
 		"song": "Revamped",
-		"needsVoices": true,
 		"stage": "party",
+		"needsVoices": true,
 		"bpm": 150,
 		"speed": 3.2
 	}
