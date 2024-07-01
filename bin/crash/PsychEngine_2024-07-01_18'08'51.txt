@@ -1,0 +1,16 @@
+objects/Note.hx (line 357)
+objects/Note.hx (line 146)
+objects/Note.hx (line 234)
+states/PlayState.hx (line 1335)
+states/PlayState.hx (line 510)
+flixel/FlxGame.hx (line 640)
+flixel/FlxGame.hx (line 727)
+flixel/FlxGame.hx (line 680)
+flixel/FlxGame.hx (line 559)
+openfl/events/EventDispatcher.hx (line 426)
+openfl/display/DisplayObject.hx (line 1398)
+
+Uncaught Error: Null Object Reference
+Please report this error to the GitHub page: https://github.com/harolkd/th2l-engine
+
+> Crash Handler written by: sqirra-rng
