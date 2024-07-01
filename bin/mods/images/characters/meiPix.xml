@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="meiPix.png">
+<SubTexture name="mei idle0000" x="60" y="138" width="61" height="132" frameX="-16" frameY="-13" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei idle0001" x="121" y="138" width="57" height="132" frameX="-19" frameY="-13" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei idle0002" x="210" y="0" width="56" height="135" frameX="-19" frameY="-10" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei idle0004" x="155" y="0" width="55" height="136" frameX="-19" frameY="-9" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei left0000" x="266" y="0" width="63" height="133" frameX="-4" frameY="-12" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei left0001" x="0" y="138" width="60" height="133" frameX="-7" frameY="-12" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei right0000" x="242" y="138" width="65" height="129" frameX="-30" frameY="-15" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei right0001" x="178" y="138" width="64" height="130" frameX="-29" frameY="-14" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei down0000" x="329" y="115" width="62" height="114" frameX="-15" frameY="-32" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei down0001" x="329" y="0" width="63" height="115" frameX="-13" frameY="-31" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei up0000" x="53" y="0" width="50" height="137" frameX="-23" frameY="-8" frameWidth="100" frameHeight="150" />
+<SubTexture name="mei up0001" x="103" y="0" width="52" height="137" frameX="-22" frameY="-8" frameWidth="100" frameHeight="150" />
+</TextureAtlas>

@@ -6,6 +6,11 @@ local hPos1 = 150
 local hPos2 = 190
 local hPos3 = 230
 local hPos4 = 270
+local scaleX = false
+local notePos0 = 730
+local notePos1 = 850
+local notePos2 = 970
+local notePos3 = 1090
 
 function onCreate()
 
@@ -76,6 +81,20 @@ scaleObject('drain', 1.35, 1.35)
 setObjectCamera('drain', 'hud')
 addLuaSprite('drain', true)
 setProperty('drain.alpha', 0)
+
+makeLuaSprite('static', 'ui/screen', 0, 0)
+scaleObject('static', 1.35, 1.35)
+setObjectCamera('static', 'other')
+setProperty('static.alpha', 0)
+addLuaSprite('static', true)
+
+if songName == 'Senpai' then
+setProperty('static.alpha', 1)
+elseif songName == 'Roses' then
+setProperty('static.alpha', 1)
+elseif songName == 'Thorns' then
+setProperty('static.alpha', 1)
+end
 end
 
 function goodNoteHit(id, direction, noteType, isSustainNote)
@@ -141,10 +160,32 @@ end
 end
 
 function onUpdate()
+noteTweenX('opp0', 0, -200, 0.1)
+noteTweenX('opp1', 1, -200, 0.1)
+noteTweenX('opp2', 2, -200, 0.1)
+noteTweenX('opp3', 3, -200, 0.1)
+
+noteTweenX('p1t', 4, notePos0, 1)
+noteTweenX('p2t', 5, notePos1, 1.2)
+noteTweenX('p3t', 6, notePos2, 1.5)
+noteTweenX('p4t', 7, notePos3, 1.7)
+
+if scaleX == false then
+setProperty('static.flipX', true)
+setProperty('static.flipY', true)
+scaleX = true
+
+elseif scaleX == true then
+setProperty('static.flipX', false)
+setProperty('static.flipY', false)
+scaleX = false
+end
+
 if hp == 0 then
 setProperty('health', 0)
 end
 end
+
 function onCountdownStarted()
 for i = 0, getProperty('unspawnNotes.length') - 1 do
 setPropertyFromGroup('unspawnNotes', i, 'rgbShader.enabled', false)
